@@ -1,0 +1,237 @@
+body {
+  font-family: "Libre Baskerville", serif;
+}
+.foto-1 {
+  margin-left: 75px;
+}
+/* main content foto 1 */
+.main-content-foto-1 {
+  background-color: rgb(238, 220, 197);
+  margin-left: x;
+}
+/* top це з верху botom це знизу */
+.about {
+  color: aliceblue;
+  margin-left: 580px;
+  margin-bottom: 865px;
+  margin-right: 45px;
+  margin-top: -1505px;
+  padding-top: 600px;
+}
+.about1 {
+  color: aliceblue;
+  margin-left: 680px;
+  margin-top: -850px;
+  padding-bottom: 850px;
+}
+/* ZEMITS-BIONEXIS-Lite: about про процедури blok 2 end 3 foto */
+.photo-second {
+  margin-left: -230px;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.photo-3 {
+  margin-top: 5px;
+}
+.photo-4 {
+  margin-left: 306px;
+  margin-top: -446px;
+}
+/* text near the photo */
+.blok-2 {
+  background-color: rgb(238, 220, 197);
+  padding-left: 450px;
+  padding-right: 100px;
+}
+.about-title {
+  background-color: aliceblue;
+  margin: -855px 30px 5px 608px;
+  padding-bottom: 271px;
+  padding-top: 100px;
+  padding-right: -200px;
+  font-size: 25px;
+}
+/* bout Zemits Bionexis Lite 1 */
+.about-Zemits-Bionexis-Lite {
+  font-size: 45px;
+  color: black;
+  padding-left: 100px;
+}
+.first {
+  margin-left: 400px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.about-Zemits-Bionexis-type {
+  font-size: 30px;
+  margin-right: 300px;
+}
+/* header-color  про те що робиться under-three-photos */
+.under-three-photos-title {
+  padding-left: 300px;
+}
+.under-three-photos {
+  background-color: aliceblue;
+  font-size: 30px;
+  margin-left: -450px;
+  margin-top: -20px;
+  margin-right: -100px;
+  margin-bottom: 100px;
+  padding-bottom: 120px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 40px;
+}
+/* photo-before-cavitation */
+.photo-before-cavitation {
+  margin-left: -300px;
+  margin-top: -10px;
+}
+/* results-and-photos */
+.results-and-photos-title {
+  font-size: 35px;
+  padding-left: 250px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.first-end-second {
+  margin-left: -300px;
+  margin-bottom: 100px;
+}
+.photo-second-2 {
+  padding-left: 100px;
+}
+.third-end-fourth {
+  margin-left: -300px;
+}
+.fourth {
+  padding-left: 100px;
+}
+
+/* title about the cavitation end background-color1 */
+.background-color1 {
+  background-color: aliceblue;
+  margin-left: -450px;
+  margin-right: -100px;
+ padding-top: 100px;
+ margin-top: 50px;
+}
+.cavitation-title {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  padding-left: 700px;
+  margin-bottom: 70px;
+  margin-top: 30px;
+}
+/* about the cavitation */
+.about-the-price-1-cavitation {
+  font-size: 20px;
+  padding-left: 150px;
+  padding-right: 850px;
+}
+.about-price1 {
+  font-size: 23px;
+  padding-left: 1100px;
+  padding-bottom: 100px;
+  margin-top: -210px;
+}
+
+/* about-the-price2-RF-lifting */
+.RF-lifting-title {
+  font-size: 35px;
+  color: rgb(0, 0, 0);
+  padding-left: 700px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.about-RF-lifting {
+  font-size: 20px;
+  padding-left: 150px;
+  padding-right: 850px;
+}
+.about-the-price2 {
+  font-size: 23px;
+  margin-top: -150px;
+  padding-left: 1100px;
+  padding-bottom: 100px;
+}
+/* about-the-price3 VACUUM-ROLLER-MASSAGE */
+
+.VACUUM-ROLLER-MASSAGE-title {
+  font-size: 35px;
+  color: rgb(2, 2, 2);
+  padding-left: 350px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.about-the-VACUUM-ROLLER-MASSAGE {
+  font-size: 20px;
+  padding-left: 150px;
+  padding-right: 850px;
+}
+.about-the-price3 {
+  font-size: 23px;
+  padding-left: 1100px;
+  margin-top: -150px;
+}
+/* HOLIDAY-OFFERS-ABOUT-THE-PRICE4 СВЯТКОВІ ПРОПОЗИЦІЇ */
+.HOLIDAY-OFFERS-ABOUT-TITLE {
+ font-size: 35px;
+  padding-left: 600px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.HOLIDAY-OFFERS-ABOUT-THE-PRICE4 {
+  font-size: 25px;
+  margin-top: 100px;
+  padding-left: 150px;
+  padding-right: 200px;
+}
+.HOLIDAY-OFFERS-PRICE4-TITLE {
+  font-size: 25px;
+}
+/* discounts-on-the-photo */
+.discounts-on-the-photo {
+  background-color: rgb(238, 220, 197);
+  margin-top: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.discounts-on-the-photo-first-end-second {
+  margin-left: 90px;
+}
+.discounts-on-the-photoh-second {
+  margin-left: 90px;
+}
+
+.discounts-on-the-photoh-third {
+ margin-top: -860px;
+ margin-left: 1070px;
+padding-bottom: 15px;
+}
+/* Contacts-end-location */
+
+.Contacts-end-location-title {
+  font-size: 35px;
+  margin-left: 600px;
+  margin-top: 100px;
+}
+.Contacts-end-tel {
+  font-size: 20px;
+  margin-left: 80px;
+  padding-right: 900px;
+  margin-top: 120px;
+}
+.location1 {
+  font-size: 20px;
+  margin-left: 680px;
+  padding-right: 500px;
+  margin-top: -150px;
+  margin-bottom: 300px;
+}
+.how-to-get-there {
+  font-size: 20px;
+  margin-left: 1100px;
+  padding-bottom: 100px;
+  margin-top: -400px;
+}
